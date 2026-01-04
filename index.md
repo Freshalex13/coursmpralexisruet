@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Norm'Handi Cours
 
-# L'Échappée Belle
+Norm'Handi est une association pour promouvoir la recherche et la formation en Médecine Physique et de Réadaptation (MPR).
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Norm'Handi Cours est source pour comprendre des notions de MPR à différent niveau de votre formation. 
